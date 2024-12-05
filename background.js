@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = 'AIzaSyAbEzlFgyk2xOSAjOJXtOThtG4JUhXOOqM';
+const GEMINI_API_KEY = '';
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
 // Initialize context menu items
